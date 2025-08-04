@@ -1,2 +1,2 @@
-# Sigma
+# Detection Rules
 Sigma Rules
